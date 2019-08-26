@@ -1,1 +1,4 @@
-# Twitter_AI
+# A.I. Attitudes: An Analysis of Twitter Views toward Technology through Time
+---
+
+This project repository contains the code and result files for an analysis of Twitter data collected using the [Twitter API](https://developer.twitter.com). Specifically, the project applied natural language processing techniques such as topic modelling, sentiment analysis, and dimensionality reduction to assess general attitudes toward artificial intelligence over time and the topics most frequently associated with technology in public discourse. The repository contains Jupyter Notebook files describing the workflow for various analyses, `.py` files containing useful functions, output figures, and the Tweet data used in `.csv` format. If you would like to replicate and/or build on the analyses here but do not already have a Twitter Developer account, you can start by following [these instructions](./setup_twitter_instructions.md) to create one. 
